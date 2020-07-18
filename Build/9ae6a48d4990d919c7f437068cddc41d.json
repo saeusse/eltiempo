@@ -1,0 +1,16 @@
+{
+"companyName": "doctor_calamar",
+"productName": "el_tiempo_desaparecio",
+"productVersion": "0.1",
+"dataUrl": "dbb219c70b2e42e4620e8270aa69a8ae.unityweb",
+"wasmCodeUrl": "594a33b4647903887725ae368913ac8d.unityweb",
+"wasmFrameworkUrl": "1bfc34f98970ee3f79b68c17ff62fb48.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
